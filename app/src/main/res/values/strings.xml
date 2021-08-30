@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UseBiometricFingerPrint</string>
+    <string name="secret_page">Secret Page</string>
+</resources>
